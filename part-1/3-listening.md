@@ -79,6 +79,8 @@
 -《控方证人》
 -《桃色公寓》
 
+推荐一个设计优雅、资源全面、无任何广告的影视站点 [不太灵影视](http://bt0.com/)
+
 >通过电影、美剧等学习英语真的需要良好的基础，而且这部分的学习效果更多的是来自于享受电影、电视剧的额外收益。
 Podcast 和带 lrc 的美剧录音比纯看美剧要少很多干扰，在同时摄入的信息量上减少了视觉信息这部分，学习效果更好。
 
@@ -139,11 +141,15 @@ Derek制作的 *一个视频学习一门语言* 的教程系列可以帮助你�
 
 拥有较为丰富的前端课程，小部分免费。
 
-### YouTube上优秀的英语学习频道
+### YouTube频道推荐
 
 - [EnglishLessons4U - Learn English with Ronnie! [engVid]](https://www.youtube.com/user/EnglishLessons4U) 
 
     **力荐** 学习英语的基础语法，很多小技巧都挺实用。最最重要的是，Ronnie老师实在是太幽默啦，学习的过程中你会感受到快乐！
+
+- [English with Lucy!](https://www.youtube.com/channel/UCz4tgANd4yy8Oe0iXCdSWfA) 
+
+    妹纸很漂亮，想当年，我的大学英语老师也和她一样美。
 
 - [EnglishAnyone](https://www.youtube.com/channel/UCrJHj7MDQhmQ9iFuACdoWCg) 
 
@@ -152,12 +158,11 @@ Derek制作的 *一个视频学习一门语言* 的教程系列可以帮助你�
 - [Speak English With Vanessa](https://www.youtube.com/channel/UCxJGMJbjokfnr2-s4_RXPxQ)
     
     Vanessa老师给人一种热情、乐观的感觉，发音标准，声情并茂。
+
+- [mmmEnglish](https://www.youtube.com/channel/UCrRiVfHqBIIvSgKmgnSY66g/)
     
-- [TED  6](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug) 
-
-    TED talks,听听别人的idea是一件很有意思的事情。 建议从热门视频开始看，这部分的视频往往都有多国语言字幕，而且idea也非常棒。
-
-
+    Emma老师的发音柔软清透、温和迷人。
+        
 
 ### 超级英雄电影爱好者不该错过的频道
 
@@ -177,7 +182,7 @@ Derek制作的 *一个视频学习一门语言* 的教程系列可以帮助你�
 - [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig)
 Late秀
 
-### 其他电影与音乐频道
+### 其他
 
 - [Disney UK](https://www.youtube.com/user/WaltDisneyStudiosUK)
 冰雪奇缘主题曲FROZEN的播放量高达10亿!
@@ -187,12 +192,17 @@ Late秀
 OneDirection粉应该关注的频道
 - [SiaVEVO](https://www.youtube.com/channel/UCmKdSrwf1e8coqAzUsrVHZw)
 个人非常喜欢，视频质量感人，引人深思
+- [SSSniperWolf](https://www.youtube.com/channel/UCpB959t8iPrxQWj7G6n0ctQ)
+一只可爱的妹子。
+- [TED  6](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug) 
+TED Talks,听听别人的idea是一件很有意思的事情，建议从热门的开始看，TED Talks的热门视频往往都有多国语言字幕。
+
 
 ## 单独推荐的YouTube视频
 
 - [自信的技巧 - 伊万•约瑟夫博士 - TEDxRyersonU](https://www.youtube.com/watch?v=w-HYZv6HzAs) | [优酷链接](http://v.youku.com/v_show/id_XMjgyMDQwMDc4MA==.html)
 - [说流利英语的一个小技巧](https://www.youtube.com/watch?v=l96V7dQtq9E) | [优酷链接](http://v.youku.com/v_show/id_XMjc2MzE0NTQ4NA==.html)
-- [朱利安·特瑞雪: 怎样说话人们才会听](https://www.youtube.com/watch?v=eIho2S0ZahI) | [优酷链接](http://v.youku.com/v_show/id_XMjgyMDQwNDMxMg==.html)
+- [朱利安·特瑞雪: 怎样说话人们才会听](https://www.youtube.com/watch?v=eIho2S0ZahI) | [B站链接](http://www.bilibili.com/video/av2915315/)
 - [Sia - Chandelier (Official Video)](https://www.youtube.com/watch?v=2vjPBrBU-TM) | [优酷链接](http://v.youku.com/v_show/id_XMjgyMDQxMjMwNA==.html)
 
 
